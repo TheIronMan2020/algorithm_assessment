@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fc0e4ff-70f2-438f-91c1-b15255f4186b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gZ3B4wVTJFUJ4c7Rk9bdXHbFZh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.HybridSort">
+    <configuration name="HybridSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HybridSort" />
+      <module name="Comp_a2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversibleDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReversibleDeque" />
+      <module name="Comp_a2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleArrayDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleArrayDeque" />
+      <module name="Comp_a2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleLinkedDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleLinkedDeque" />
+      <module name="Comp_a2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingAlgorithms" />
+      <module name="Comp_a2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HybridSort" />
+        <item itemvalue="Application.SortingAlgorithms" />
+        <item itemvalue="Application.ReversibleDeque" />
+        <item itemvalue="Application.SimpleArrayDeque" />
+        <item itemvalue="Application.SimpleLinkedDeque" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fc0e4ff-70f2-438f-91c1-b15255f4186b" name="Default Changelist" comment="" />
+      <created>1598308152722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598308152722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1512" y="362" key="#Project_Structure" timestamp="1598314329640">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="362" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1598314329640" />
+    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598314642561">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598314642561" />
+    <state x="1769" y="593" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598310941910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1769" y="593" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598310941910" />
+    <state x="949" y="695" key="FileChooserDialogImpl" timestamp="1598314326455">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="949" y="695" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1598314326455" />
+    <state width="2517" height="277" key="GridCell.Tab.0.bottom" timestamp="1598537992576">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1860" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598413096075" />
+    <state width="2517" height="277" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598537992576" />
+    <state width="2517" height="277" key="GridCell.Tab.0.center" timestamp="1598537992576">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1860" height="192" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598413096075" />
+    <state width="2517" height="277" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598537992576" />
+    <state width="2517" height="277" key="GridCell.Tab.0.left" timestamp="1598537992576">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1860" height="192" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598413096075" />
+    <state width="2517" height="277" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598537992576" />
+    <state width="2517" height="277" key="GridCell.Tab.0.right" timestamp="1598537992576">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1860" height="192" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598413096075" />
+    <state width="2517" height="277" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598537992576" />
+    <state width="1235" height="292" key="GridCell.Tab.1.bottom" timestamp="1598503930206">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="292" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598503930205" />
+    <state width="1235" height="292" key="GridCell.Tab.1.center" timestamp="1598503930205">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="292" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598503930205" />
+    <state width="1235" height="292" key="GridCell.Tab.1.left" timestamp="1598503930205">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="292" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598503930205" />
+    <state width="1235" height="292" key="GridCell.Tab.1.right" timestamp="1598503930205">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="292" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598503930205" />
+    <state x="400" y="503" key="SettingsEditor" timestamp="1598314550130">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="400" y="503" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1598314550130" />
+    <state x="566" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1598536070796">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="425" y="263" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598413888960" />
+    <state x="566" y="354" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598536070796" />
+    <state x="1411" y="583" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598313541225">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1411" y="583" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1400@0.0.2560.1400" timestamp="1598313541225" />
+    <state x="937" y="331" key="run.anything.popup" timestamp="1598428994632">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="937" y="331" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1598428994632" />
+    <state x="1583" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1598337370651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="319" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1598337370651" />
+  </component>
+</project>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26d8b284-81ef-45c9-9dba-b553df6f89eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fqBloQ6y1yPCsEMiSSuqQpZD8h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Comp_a2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.ArrayCartesianPlane">
+    <configuration name="ArrayCartesianPlane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayCartesianPlane" />
+      <module name="compA1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartesianPlaneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compA1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CartesianPlaneTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartesianPlaneTest.testInvalidResizeArgsBoth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compA1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CartesianPlaneTest" />
+      <option name="METHOD_NAME" value="testInvalidResizeArgsBoth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartesianPlaneTest.testInvalidResizeExistingElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compA1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CartesianPlaneTest" />
+      <option name="METHOD_NAME" value="testInvalidResizeExistingElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartesianPlaneTest.testValidResize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compA1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CartesianPlaneTest" />
+      <option name="METHOD_NAME" value="testValidResize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayCartesianPlane" />
+        <item itemvalue="JUnit.CartesianPlaneTest" />
+        <item itemvalue="JUnit.CartesianPlaneTest.testValidResize" />
+        <item itemvalue="JUnit.CartesianPlaneTest.testInvalidResizeExistingElement" />
+        <item itemvalue="JUnit.CartesianPlaneTest.testInvalidResizeArgsBoth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26d8b284-81ef-45c9-9dba-b553df6f89eb" name="Default Changelist" comment="" />
+      <created>1596935895738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596935895738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596947853096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596947853096" />
+    <state x="1130" y="590" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596936013092">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1130" y="590" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1596936013092" />
+    <state x="790" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1596947812522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596947812522" />
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1596950997199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596950997199" />
+    <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1596947670183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596947670183" />
+    <state x="847" y="308" key="FileChooserDialogImpl" timestamp="1598324764603">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="635" y="229" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596947810291" />
+    <state x="847" y="308" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1598324764603" />
+    <state width="1236" height="396" key="GridCell.Tab.0.bottom" timestamp="1597568817830">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596953636996" />
+    <state width="1037" height="557" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1597152568511" />
+    <state width="1236" height="396" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1597568817830" />
+    <state width="1236" height="396" key="GridCell.Tab.0.center" timestamp="1597568817830">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596953636996" />
+    <state width="1037" height="557" key="GridCell.Tab.0.center/0.0.2560.1400/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1597152568510" />
+    <state width="1236" height="396" key="GridCell.Tab.0.center/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1597568817830" />
+    <state width="1236" height="396" key="GridCell.Tab.0.left" timestamp="1597568817830">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596953636995" />
+    <state width="1037" height="557" key="GridCell.Tab.0.left/0.0.2560.1400/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1597152568510" />
+    <state width="1236" height="396" key="GridCell.Tab.0.left/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1597568817830" />
+    <state width="1236" height="396" key="GridCell.Tab.0.right" timestamp="1597568817830">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596953636996" />
+    <state width="1037" height="557" key="GridCell.Tab.0.right/0.0.2560.1400/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1597152568510" />
+    <state width="1236" height="396" key="GridCell.Tab.0.right/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1597568817830" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1596979456036">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1596979456036" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1596979456036">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1596979456036" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1596979456036">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1596979456036" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1596979456036">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1596979456036" />
+    <state x="583" y="311" key="SettingsEditor" timestamp="1598313471144">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596948027093" />
+    <state x="583" y="311" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1598313471144" />
+    <state x="977" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1598324745715">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="-668" y="705" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1597135268605" />
+    <state x="977" y="525" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1597578187443" />
+    <state x="977" y="525" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598324745715" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1596950062691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596950062691" />
+  </component>
+</project>

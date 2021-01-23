@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="195d297b-1b38-4acd-b610-9e0b96635bd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hLURSoAr7CcyTnOlPniCfncD5r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\OneDrive\opt\h3\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\OneDrive\opt\h3\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LinkedMultiHashSetTest">
+    <configuration name="BinaryTreeComparatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="h3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeComparatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedMultiHashSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="h3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedMultiHashSetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedMultiHashSetTest.testSimpleResize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="h3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedMultiHashSetTest" />
+      <option name="METHOD_NAME" value="testSimpleResize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuaternaryHeapsortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="h3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QuaternaryHeapsortTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrongHeapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="h3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StrongHeapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedMultiHashSetTest" />
+        <item itemvalue="JUnit.QuaternaryHeapsortTest" />
+        <item itemvalue="JUnit.StrongHeapTest" />
+        <item itemvalue="JUnit.BinaryTreeComparatorTest" />
+        <item itemvalue="JUnit.LinkedMultiHashSetTest.testSimpleResize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="195d297b-1b38-4acd-b610-9e0b96635bd0" name="Default Changelist" comment="" />
+      <created>1599789862218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599789862218</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1373" y="100" width="1093" height="1207" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1599799304488">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1373" y="100" width="1093" height="1207" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599799304488" />
+    <state x="1327" y="554" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1599793775522">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1327" y="554" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599793775522" />
+    <state x="1245" y="506" key="FileChooserDialogImpl" timestamp="1599793748909">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1245" y="506" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599793748909" />
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1600858518109">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600858518109" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1600858518109">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600858518109" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1600858518109">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600858518109" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1600858518109">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600858518109" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1600858518109">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600858518109" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1600858518109">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600858518109" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1600858518109">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600858518109" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1600858518109">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600858518109" />
+    <state x="1076" y="374" key="SettingsEditor" timestamp="1599793779117">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1076" y="374" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1599793779117" />
+    <state x="1603" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1600948615780">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1202" y="389" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600500101338" />
+    <state x="1603" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1600948615780" />
+    <state x="1603" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1600853746391" />
+    <state x="1182" y="247" key="run.anything.popup" timestamp="1600318364210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1182" y="247" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600318364210" />
+    <state x="1576" y="333" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1600312546370" />
+    <state x="1193" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1599813571690">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1193" y="319" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1599813571690" />
+  </component>
+</project>
